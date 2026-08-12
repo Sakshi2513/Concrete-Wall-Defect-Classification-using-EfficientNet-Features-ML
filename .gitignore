@@ -1,0 +1,28 @@
+# Datasets
+ConViD — Concrete Visual Defect Dataset/
+STRUCTURAL_DEFECT_DATASET/
+
+# Features
+features/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Model files
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
