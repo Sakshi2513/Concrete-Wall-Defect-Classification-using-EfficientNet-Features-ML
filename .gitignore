@@ -26,3 +26,8 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+# Allow deployment model files
+!models/
+!models/*.keras
+!models/*.pkl
+!models/*.joblib
